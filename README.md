@@ -12,7 +12,7 @@ I am an 18-year-old Industrial Engineering student at the National University of
 
 - 🔭 I’m currently working on **PMDNote**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, C++**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python and C++**
 
 - 📫 How to reach me **saddamfer.28@gmail.com**
 
